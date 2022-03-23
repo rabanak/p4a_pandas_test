@@ -6,6 +6,8 @@ from kivy.properties import StringProperty
 
 import pandas as pd
 
+# import pandas as pd
+
 
 KV = '''
 Label:
